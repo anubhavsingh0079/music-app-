@@ -12,6 +12,7 @@ body {
   height: 100vh;
   overflow: hidden;
 }
+
 .sidebar {
   width: 240px;
   background: #121212;
@@ -48,8 +49,6 @@ body {
 .playlist p {
   margin: 15px 0;
 }
-
-/* Main */
 .main {
   flex: 1;
   background: linear-gradient(#202020, #121212);
@@ -57,7 +56,6 @@ body {
   padding-bottom: 100px;
   background-image: url("img2.jpeg");
   background-position: center;
-
 }
 
 header {
@@ -102,7 +100,7 @@ header input {
   outline: none;
 }
 
-/* Content */
+
 .content {
   padding: 20px 30px;
 }
@@ -148,7 +146,6 @@ header input {
   font-size: 14px;
 }
 
-/* Music Player */
 .player {
   position: fixed;
   bottom: 0;

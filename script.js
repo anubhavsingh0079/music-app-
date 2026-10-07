@@ -67,7 +67,7 @@ const songs = {
    audio: "m9.mp3"
  },
   song10: {
-   title: "Softly",
+   title: "Take IT Easy",
    artist: "Karan Aujla",
    cover: "https://cover.mr-jatt.im/thumb/503847/Take-It-Easy-1.jpg",
    audio: "m10.mp3"
